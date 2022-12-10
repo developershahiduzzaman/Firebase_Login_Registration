@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Firebase Login Registration</string>
+    <string name="firebase_login_and_registration">Firebase Login \n and \n Registration</string>
+</resources>

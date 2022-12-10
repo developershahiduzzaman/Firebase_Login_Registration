@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "474053008839",
+    "project_id": "fir-login-registration-1a731",
+    "storage_bucket": "fir-login-registration-1a731.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474053008839:android:a72c14e06e34b780e18de2",
+        "android_client_info": {
+          "package_name": "com.ftbd.firebaseloginregistration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474053008839-jrpb8n57j13o175u3ta9jbfn2cr8kcvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcHQB5f0QpWPXI2mKewss9ifvb6KQowus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474053008839-jrpb8n57j13o175u3ta9jbfn2cr8kcvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
